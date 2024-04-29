@@ -12,3 +12,6 @@
 - 曾独立开发小程序端产品的前后端，独自运营2个月时间，用户规模2w+，日均用户1w+
 - 目前虽然还是在读学生但是还想从事独立开发，想产品ing🤗
   
+### 小玩意
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Heriec&label=Profile%20views&color=0e75b6&style=flat" alt="Heriec" /> </p>
