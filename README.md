@@ -12,3 +12,10 @@
 - 曾独立开发小程序端产品的前后端，独自运营2个月时间，用户规模2w+，日均用户1w+
 - 目前虽然还是在读学生但是还想从事独立开发，想产品ing🤗
   
+**近期变动/GitHub Contributions**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Heriec/Heriec/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Heriec/Heriec/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Heriec/Heriec/output/github-contribution-grid-snake.svg" />
+</picture> 
