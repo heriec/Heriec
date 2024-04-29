@@ -14,4 +14,4 @@
   
 ### 小玩意
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Heriec&label=Profile%20views&color=0e75b6&style=flat" alt="Heriec" /> </p>
+- 访问量 <p> <img src="https://komarev.com/ghpvc/?username=Heriec&label=Profile%20views&color=0e75b6&style=flat" alt="Heriec" /> </p>
