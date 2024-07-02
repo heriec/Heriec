@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- hello，欢迎来访，我是Heriec，啥都学的在读计算机学生
+- hello，欢迎来访，我是Heriec，纯软研0看不到未来
 - 目前已学技术栈💻
   - Vue、React
   - Springboot、Springcloud
