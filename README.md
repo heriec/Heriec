@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- hello，欢迎来访，我是Heriec，纯软研0看不到未来
+- hello，欢迎来访，我是Heriec
+- 计算机就业下行，如何才能找到自己的舒适区？
 - 目前已学技术栈💻
   - Vue、React
   - Springboot、Springcloud
